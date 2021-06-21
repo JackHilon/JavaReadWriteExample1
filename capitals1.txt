@@ -1,0 +1,7 @@
+France	Paris
+Germany	Berlin
+Spain	Madrid
+Italy	Rome
+Greece	Athens
+Holland	Amsterdam
+Norway  12345	Oslo
